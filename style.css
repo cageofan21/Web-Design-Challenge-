@@ -1,0 +1,18 @@
+.navbar-brand {
+background-color: #0BADA6;
+}
+
+#mainpic {
+    width: 350px;
+    height:300px;
+    float: left;
+    margin-right: 15px;
+}
+
+.display-4 { 
+    color: blue;    
+}
+
+h3 {
+    color: blue; 
+}
