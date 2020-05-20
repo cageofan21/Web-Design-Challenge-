@@ -6,6 +6,8 @@ A dropdown was also created as a means of navigating through each page. A bootst
 
 ## Landing Page
 
+![](assets/images/LandingPage.png)
+
 On this page, it mentions the main purpose of this dashboard and from the source of the data, which was the OpenWeatherMap API. In addition, the four main visualizations are also plotted on this page as well. 
 
 ## Visualization Page 1 (City Latitude vs. Cloudiness)
@@ -28,9 +30,10 @@ On this page, it mentions the main purpose of this dashboard and from the source
 
 On this page, it shows the comparison of City Latitude with all of the plots used in the visualizations. 
 
-
+![](assets/images/ComparisonsPage.png)
 
 ## Data Page 
 
 This page shows the data we used to build the csv, which came from the OpenWeatherMap API and was saved in a csv. 
 
+![](assets/images/DataPage.png)
